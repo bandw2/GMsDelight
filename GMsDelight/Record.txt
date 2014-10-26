@@ -1,0 +1,35 @@
+HPTotal 
+Strength 
+Dexterity 
+Constitution 
+Intelligence 
+Wisdom 
+Charisma 
+AC 
+Touch 
+Flatfoot 
+CMB 
+CMD 
+Initiative 
+Ref 
+Will 
+Fort 
+Appraise 
+Bluff 
+Disguise 
+K.Arcana 
+K.Dungeon 
+K.Engineering 
+K.Geography 
+K.History 
+K.Local 
+K.Nature 
+K.Nobility 
+K.Planes 
+K.Religion 
+Linguistics 
+Perception 
+Sense Motive 
+Sleight of Hand 
+Stealth 
+a "notes" section to keep track of less universal things like panache or ki or smites-per-day.
